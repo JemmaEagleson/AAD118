@@ -35,7 +35,7 @@ Using the technique of filling the frame of your photograph with the main subjec
 #####Project Time!
 We were also given a photography project to take a series of different shots of a piece archietecture whilst taking into consideration some of the techniques mentioned previously. The task includes choosing six of the best *Macro* shots and six of the best *Micro* shots. The photos I take will be uploaded to my [Flickr](https://www.flickr.com/photos/127785088@N07/) in week 3. 
 
-#####Personal Research
+##Research on Photographers
 #####Artur Stanisz 
 Artur Stanisz is Polish-Canadian and is currently living in Vancouver. He studied tourism management, but as long as he can rememeber photography was always an important part of his life. Over time he self-taught himself into being a landscape photographer. He spends a lot of his time hiking and exploring local trails trying to capture photos of areas that are less frequently photographed.
 
@@ -47,7 +47,13 @@ The above photo is one of my favourite shots taken by Artur. I particularly like
 
 I feel this is an inspiring piece of work as it shows that you can break the 'rules' of photography and still take a stunning shot which feels interesting and balanced. 
 
+#####Paul Sutherland
+Paul Sunderland has been shooting underwater photography professionally for more than 15 years. Thinking back over those years and the five preceding when I was shooting as much as I could, whenever time allowed, I keep trying to find a seminal memory in which those years are rooted. I can't. My mind 
 
+
+he eye of an ember parrotfish
+
+Photo Tip: Get creative with macro photography by shooting the subject from an unexpected angle. Try different lighting, as well, using front lighting for deeper color saturation and side lighting to highlight texture.
 
 
 
