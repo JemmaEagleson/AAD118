@@ -8,5 +8,6 @@ In Friday's lecture we looked at the usefulness of imagery within our work and h
 *The Rule of Thirds*
 The 'Rule of Thirds' is one of the most well known principles of photography. The 'Rule of Thirds' allows for well balanced and interesting shots. The main idea behind the rule of thirds is to think about breaking an image down into three parts, both horizontally and vertically, so that you have 9 equal parts. The four points created by the overlapping of these lines can help to idendify the most important parts of a photograph. 
 
+![Rule of thirds](https://github.com/JemmaEagleson/AAD118/blob/master/Images/rule%20of%20thirds.png?raw=true)
 
 
