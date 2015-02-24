@@ -1,8 +1,10 @@
 # AAD118
 ##Imaging and Data Visualisation
-In this module we will be looking at photography, illustration and using diagrams as a way of communication. We will look at both paper and screen-based approaches to creating images. I hope to learn more about how imagery can be used in an array of different design contexts and improve upon my photography and drawing skills. I would also like to develop more knowledge of the technical terms surrounding images such as vector, raster, resolution, compression, and bokeh. 
+In this module we will be looking at photography, illustration and using diagrams as a way of communication. We will look at both paper and screen-based approaches to creating images. 
 
-##Week 01 - *The Impact of Photography*
+I hope to learn more about how imagery can be used in an array of different design contexts and improve upon my photography and drawing skills. I would also like to develop more knowledge of the technical terms surrounding images such as vector, raster, resolution, compression, and bokeh. 
+
+##Week 1 - *The Impact of Photography*
 In Friday's lecture we looked at the usefulness of imagery within our work and how photography can be a fundemental part of a project. Having the ability to take your own photographs properly and use them within your work can be a massive benefit and allows you as a designer to provide more resources to future clients. 
 
 #####The Rule of Thirds
@@ -15,10 +17,10 @@ Many studies have been carried out to show that when viewing images people's lin
 
 The example above shows that the point of interest *the dog* is within the second and third intersections of the grid. This allows the photo to become a lot more balanced and enables the viewer to see it in a more natural light. The eyes and nose also fall between the interections which are a natural point of focus for a photo of an animal or person. 
 
-#####Using Horizontal Lines in Photography
+#####Horizontal Lines in Photography
+Horizontal lines are the basis of every composition and even images with no straight lines in them are bound by the horizontal or vertical frame that they’re contained in. Using horizontal lines within photos is a good way of grouping together different components and helps to show details within an image. 
 
-
-
+#####Angles in Photography
 
 
 
