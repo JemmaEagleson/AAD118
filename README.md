@@ -35,8 +35,35 @@ Using the technique of filling the frame of your photograph with the main subjec
 #####Project Time!
 We were also given a photography project to take a series of different shots of a piece archietecture whilst taking into consideration some of the techniques mentioned previously. The task includes choosing six of the best *Macro* shots and six of the best *Micro* shots. The photos I take will be uploaded to my [Flickr](https://www.flickr.com/photos/127785088@N07/) in week 3. 
 
+#####Personal Research
+#####Artur Stanisz 
+Artur Stanisz is Polish-Canadian and is currently living in Vancouver. He studied tourism management, but as long as he can rememeber photography was always an important part of his life. Over time he self-taught himself into being a landscape photographer. He spends a lot of his time hiking and exploring local trails trying to capture photos of areas that are less frequently photographed.
+
+![PHOTO](https://github.com/JemmaEagleson/AAD118/blob/master/Images/Artur%20Stanisz%20.png?raw=true)
+
+>“I had hiked across the Turner Glacier, where I set up my camp and spent the next few days exploring the area and looking for the best photo compositions,” - Artur Stanisz 
+
+The above photo is one of my favourite shots taken by Artur. I particularly like this photograph because Artur Stanisz has stepped out of the 'rule' box and ignored 'the rule of thirds' by centering Mount Asgard in the frame. I also really like that the foreground curve in the snow and the clouds lead your eye to the peaks of the mountain!
+
+I feel this is an inspiring piece of work as it shows that you can break the 'rules' of photography and still take a stunning shot which feels interesting and balanced. 
+
+
+
+
+
+
+
+
+but still managing  getting acknowledged. I love shots that step out of the "rule" box!
+
+
+
+
+
+
 
 ##Week 2 - *Harmony and Proportion*
+
 
 
 ##Week 3 - *Manufactured Fictions in The Age of Instagram*
