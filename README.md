@@ -75,9 +75,9 @@ Paul Sunderland has been shooting underwater photography professionally for more
 ![Macro](https://github.com/JemmaEagleson/AAD118/blob/master/Images/macro%202.png?raw=true)
 ![Macro](https://github.com/JemmaEagleson/AAD118/blob/master/Images/macro.png?raw=true)
 ![Macro](https://github.com/JemmaEagleson/AAD118/blob/master/Images/macro%203.png?raw=true)
-![Macro](https://github.com/JemmaEagleson/AAD118/blob/master/Images/macro%204.png?raw=true)
 ![Macro](https://github.com/JemmaEagleson/AAD118/blob/master/Images/macro6.png?raw=true)
-![Micro](https://farm9.staticflickr.com/8581/16445701897_42523048b4_b.jpg)
+![Macro](https://github.com/JemmaEagleson/AAD118/blob/master/Images/macro66.png?raw=true)
+![Micro](https://github.com/JemmaEagleson/AAD118/blob/master/Images/macro%204.png?raw=true)
 
 
 
