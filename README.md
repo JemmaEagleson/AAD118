@@ -48,31 +48,11 @@ The above photo is one of my favourite shots taken by Artur. I particularly like
 I feel this is an inspiring piece of work as it shows that you can break the 'rules' of photography and still take a stunning shot which feels interesting and balanced. 
 
 #####Paul Sutherland
-Paul Sunderland has been shooting underwater photography professionally for more than 15 years.
+Paul Sunderland has been shooting underwater photography professionally for more than 15 years. Below you can see an example of his macro photography taken underwater. 
 
 >"Every time I get in the water, at work on a project, the rest of the world ceases to exist, the subject at hand becomes the center of my attention, my point of focus." - Paul Sutherland
 
-Thinking back over those years and the five preceding when I was shooting as much as I could, whenever time allowed, I keep trying to find a seminal memory in which those years are rooted. I can't. My mind 
-
-
 ![Photo](https://github.com/JemmaEagleson/AAD118/blob/master/Images/%20Paul%20Sutherland.png?raw=true)
-
-he eye of an ember parrotfish
-
-Photo Tip: Get creative with macro photography by shooting the subject from an unexpected angle. Try different lighting, as well, using front lighting for deeper color saturation and side lighting to highlight texture.
-
-
-
-
-
-
-but still managing  getting acknowledged. I love shots that step out of the "rule" box!
-
-
-
-
-
-
 
 ##Week 2 - *Harmony and Proportion*
 
@@ -87,8 +67,8 @@ but still managing  getting acknowledged. I love shots that step out of the "rul
 ![Macro](https://farm9.staticflickr.com/8622/16651589491_6ea0c3fd36_b.jpg)
 ![Macro](https://farm9.staticflickr.com/8596/16466838539_a0152c08cb_b.jpg)
 ![Macro](https://farm9.staticflickr.com/8613/16465416628_6e9ba1da14_b.jpg)
-![Macro](https://www.flickr.com/photos/127785088@N07/16445701897/)
-![Micro](https://www.flickr.com/photos/127785088@N07/16652975115/)
+![Macro](https://farm9.staticflickr.com/8643/16652975115_d689998393_b.jpg)
+![Micro](https://farm9.staticflickr.com/8581/16445701897_42523048b4_b.jpg)
 
 
 ####Micro 
