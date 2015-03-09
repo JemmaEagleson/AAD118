@@ -20,12 +20,12 @@ The example above shows that the point of interest *the dog* is within the secon
 #####Horizontal Lines in Photography
 Horizontal lines are the basis of every composition and even images with no straight lines in them are bound by the horizontal or vertical frame that they’re contained in. Using horizontal lines within photos is a good way of grouping together different components and helps to show details within an image. In the photos I took below you can see that keeping the lines of the horizon completly horizontal really helps to add impact to the image and overall feel of the image whereas the other image doesn't give the same visual impact. 
 
-#PHOTOS
+![Horizontal Lines](https://github.com/JemmaEagleson/AAD118/blob/master/Images/Horizaontal%20lines%20.png?raw=true)
 
 #####Angles in Photography
-Adding different angles to photograpghs can really help to alter a photo's composition by just changing the perspective. In the photographs I took below you can see that altering your camera angles can really help to create a dramatic effect and make the subject a lot more interesting. 
+Adding different angles to photograpghs can really help to alter a photo's composition by just changing the perspective. In the photograph I took below you can see that altering your camera angles can really help to create a dramatic effect and make the subject a lot more interesting. 
 
-#PHOTOS
+![Changing Angles](https://github.com/JemmaEagleson/AAD118/blob/master/Images/Angles.png?raw=true)
 
 #####Filling your Frame
 Using the technique of filling the frame of your photograph with the main subject can really help to create a more creative shot.  Below I got really close to this GATEPOST and filled the frame of the photo with it which I feel made the photo a lot more interesting and thoughtful. 
@@ -48,8 +48,14 @@ The above photo is one of my favourite shots taken by Artur. I particularly like
 I feel this is an inspiring piece of work as it shows that you can break the 'rules' of photography and still take a stunning shot which feels interesting and balanced. 
 
 #####Paul Sutherland
-Paul Sunderland has been shooting underwater photography professionally for more than 15 years. Thinking back over those years and the five preceding when I was shooting as much as I could, whenever time allowed, I keep trying to find a seminal memory in which those years are rooted. I can't. My mind 
+Paul Sunderland has been shooting underwater photography professionally for more than 15 years.
 
+>"Every time I get in the water, at work on a project, the rest of the world ceases to exist, the subject at hand becomes the center of my attention, my point of focus." - Paul Sutherland
+
+Thinking back over those years and the five preceding when I was shooting as much as I could, whenever time allowed, I keep trying to find a seminal memory in which those years are rooted. I can't. My mind 
+
+
+![Photo](https://github.com/JemmaEagleson/AAD118/blob/master/Images/%20Paul%20Sutherland.png?raw=true)
 
 he eye of an ember parrotfish
 
@@ -74,6 +80,24 @@ but still managing  getting acknowledged. I love shots that step out of the "rul
 
 ##Week 3 - *Manufactured Fictions in The Age of Instagram*
 
+
+##My Final Photographs
+####Macro
+![Macro]()
+![Macro]()
+![Macro]()
+![Macro]()
+![Macro]()
+![Micro]()
+
+
+####Micro 
+![Micro]()
+![Micro]()
+![Micro]()
+![Micro]()
+![Micro]()
+![Micro]()
 
 ##Week 4 - *The Art of Art Direction*
 
