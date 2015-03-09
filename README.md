@@ -62,22 +62,24 @@ Paul Sunderland has been shooting underwater photography professionally for more
 
 
 ##My Final Photographs
+
+####Micro 
+![Micro](https://github.com/JemmaEagleson/AAD118/blob/master/Images/mirco%201.png?raw=true)
+![Micro](https://github.com/JemmaEagleson/AAD118/blob/master/Images/micro2.png?raw=true)
+![Micro](https://github.com/JemmaEagleson/AAD118/blob/master/Images/micro3.png?raw=true)
+![Micro](https://github.com/JemmaEagleson/AAD118/blob/master/Images/micro4.png?raw=true)
+![Micro](https://github.com/JemmaEagleson/AAD118/blob/master/Images/macro5.png?raw=true)
+![Micro](https://github.com/JemmaEagleson/AAD118/blob/master/Images/micro6.png?raw=true)
+
 ####Macro
-![Macro](https://farm9.staticflickr.com/8649/16651578681_37d8813c2e_b.jpg)
-![Macro](https://farm9.staticflickr.com/8622/16651589491_6ea0c3fd36_b.jpg)
-![Macro](https://farm9.staticflickr.com/8596/16466838539_a0152c08cb_b.jpg)
-![Macro](https://farm9.staticflickr.com/8613/16465416628_6e9ba1da14_b.jpg)
-![Macro](https://farm9.staticflickr.com/8643/16652975115_d689998393_b.jpg)
+![Macro](https://github.com/JemmaEagleson/AAD118/blob/master/Images/macro%202.png?raw=true)
+![Macro](https://github.com/JemmaEagleson/AAD118/blob/master/Images/macro.png?raw=true)
+![Macro](https://github.com/JemmaEagleson/AAD118/blob/master/Images/macro%203.png?raw=true)
+![Macro](https://github.com/JemmaEagleson/AAD118/blob/master/Images/macro%204.png?raw=true)
+![Macro](https://github.com/JemmaEagleson/AAD118/blob/master/Images/macro6.png?raw=true)
 ![Micro](https://farm9.staticflickr.com/8581/16445701897_42523048b4_b.jpg)
 
 
-####Micro 
-![Micro](https://farm9.staticflickr.com/8609/16445707107_049040c4d3_b.jpg)
-![Micro](https://farm9.staticflickr.com/8604/16445701507_57dd2a3c81_b.jpg)
-![Micro](https://farm9.staticflickr.com/8630/16651971632_1c2c76ed56_b.jpg)
-![Micro](https://farm9.staticflickr.com/8565/16651967052_97757faec3_b.jpg)
-![Micro](https://farm9.staticflickr.com/8643/16465416188_a953951662_b.jpg)
-![Micro](https://farm9.staticflickr.com/8613/16465416628_6e9ba1da14_b.jpg)
 
 ##Week 4 - *The Art of Art Direction*
 
