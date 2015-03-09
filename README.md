@@ -83,21 +83,21 @@ but still managing  getting acknowledged. I love shots that step out of the "rul
 
 ##My Final Photographs
 ####Macro
-![Macro]()
-![Macro]()
-![Macro]()
-![Macro]()
-![Macro]()
-![Micro]()
+![Macro](https://farm9.staticflickr.com/8649/16651578681_37d8813c2e_b.jpg)
+![Macro](https://farm9.staticflickr.com/8622/16651589491_6ea0c3fd36_b.jpg)
+![Macro](https://farm9.staticflickr.com/8596/16466838539_a0152c08cb_b.jpg)
+![Macro](https://farm9.staticflickr.com/8613/16465416628_6e9ba1da14_b.jpg)
+![Macro](https://www.flickr.com/photos/127785088@N07/16445701897/)
+![Micro](https://www.flickr.com/photos/127785088@N07/16652975115/)
 
 
 ####Micro 
-![Micro]()
-![Micro]()
-![Micro]()
-![Micro]()
-![Micro]()
-![Micro]()
+![Micro](https://farm9.staticflickr.com/8609/16445707107_049040c4d3_b.jpg)
+![Micro](https://farm9.staticflickr.com/8604/16445701507_57dd2a3c81_b.jpg)
+![Micro](https://farm9.staticflickr.com/8630/16651971632_1c2c76ed56_b.jpg)
+![Micro](https://farm9.staticflickr.com/8565/16651967052_97757faec3_b.jpg)
+![Micro](https://farm9.staticflickr.com/8643/16465416188_a953951662_b.jpg)
+![Micro](https://farm9.staticflickr.com/8613/16465416628_6e9ba1da14_b.jpg)
 
 ##Week 4 - *The Art of Art Direction*
 
