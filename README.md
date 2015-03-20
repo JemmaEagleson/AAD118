@@ -93,6 +93,15 @@ Paul Sunderland has been shooting underwater photography professionally for more
 
 ##Illustration
 
+Below is the artwork I used for my final book covers. 
+![Paris](https://github.com/JemmaEagleson/AAD118/blob/master/Images/Paris.png?raw=true)
+![Belfast](https://github.com/JemmaEagleson/AAD118/blob/master/Images/Belfast.png?raw=true)
+
+#####Book Covers
+
+![Completed Paris Book](https://github.com/JemmaEagleson/AAD118/blob/master/Images/Paris%20Book%20Complete.png?raw=true)
+![Completed Belfast Book](https://github.com/JemmaEagleson/AAD118/blob/master/Images/belfast%20complete.png?raw=true)
+
 
 
 
