@@ -103,10 +103,9 @@ Below is the artwork I used for my final book covers.
 ![Completed Belfast Book](https://github.com/JemmaEagleson/AAD118/blob/master/Images/belfast%20complete.png?raw=true)
 
 
+##Week 08 – *Information Design and Visual Storytelling*
 
-
-
-
+Infographics and Data Visualisation 
 
 
 
