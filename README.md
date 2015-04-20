@@ -105,7 +105,8 @@ Below is the artwork I used for my final book covers.
 
 ##Week 08 – *Information Design and Visual Storytelling*
 
-Infographics and Data Visualisation 
+Infographics and Data Visualisation
+An infographic is a graphic visual representation of information, data or knowledge. They are made to allow detailed information to be dispalyed as quickly and as clearly as possible. Creating infographics is also known as data visualisation.
 
 
 
