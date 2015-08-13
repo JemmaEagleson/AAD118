@@ -101,7 +101,7 @@ Below is the artwork I used for my final book covers.
 
 ![Completed Paris Book](https://github.com/JemmaEagleson/AAD118/blob/master/Images/Paris%20Book%20Complete.png?raw=true)
 ![Completed Belfast Book](https://github.com/JemmaEagleson/AAD118/blob/master/Images/belfast%20complete.png?raw=true)
-
+![Completed London Book](https://cloud.githubusercontent.com/assets/8933902/9240306/7533eb5a-415c-11e5-86c4-69045f1538d5.png)
 
 ##Week 08 – *Information Design and Visual Storytelling*
 
