@@ -108,7 +108,12 @@ Below is the artwork I used for my final book covers.
 Infographics and Data Visualisation
 An infographic is a graphic visual representation of information, data or knowledge. They are made to allow detailed information to be dispalyed as quickly and as clearly as possible. Creating infographics is also known as data visualisation.
 
+I researched loads of different people's take on infographic. Some focused mainly on numbers and graphs, displaying them in an easy way and without causing an information overload. Others used fun images and pictures to portray facts and figures. Aftr looking at infographics I found on the web I wanted to make mine quite colourful and to use a mixture of type and images to portray my facts. 
 
+I used worldometer to find most of my facts but used other sites to further my knowledge and find more interesting figures to use. 
+
+Below is my finished infographic: 
+![Completed Info](https://cloud.githubusercontent.com/assets/8933902/9240188/4fea9fb6-415b-11e5-9b3c-38ad153c1aed.png) 
 
 
 
